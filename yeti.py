@@ -1,5 +1,6 @@
 # Work with Python 3.6
 import discord
+import asyncio
 
 TOKEN = 'NDc0NDcxNjgxMTMwMzY0OTMw.Dla3aw.7SKjDb2tViEEF1AuScOcEvdB6xk'
 
